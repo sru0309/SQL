@@ -1,0 +1,16 @@
+USE srushti;
+CREATE TABLE orders 
+( 
+order_id INT PRIMARY KEY,
+seller VARCHAR(20),
+product VARCHAR(30),
+dev_date DATE,
+address VARCHAR (30)
+);
+SELECT * FROM orders;
+INSERT INTO orders VALUES (101,"ADAM","APPLES",'2020-08-03',"JALGOAN");
+INSERT INTO orders VALUES (104,"HUNNY","APPLES",'2020-09-05',"JALGOAN"),
+(105,"BUNNY","PINEAPPLES",'2020-09-10',"JALGOAN");
+UPDATE orders SET product="BANANA" WHERE order_id =104;
+ALTER TABLE orders ADD price INT AFTER dev_date;
+
