@@ -1,0 +1,7 @@
+USE srushti;
+SELECT * FROM sample1;
+SELECT AVG(Average) AS AVERAGE FROM sample1;
+SELECT COUNT(Average) AS COUNT FROM sample1;
+SELECT SUM(2005+2006) AS SUM FROM sample1;
+SELECT MIN(Average) AS MINIMUM FROM sample1;
+SELECT MAX(Average) AS MAXIMUM FROM sample1;
