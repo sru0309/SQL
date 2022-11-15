@@ -16,3 +16,5 @@ INSERT INTO salesman VALUES(112,"SARITA","WAYKOLE","MUMBAI",3,32000),
 (113,"NIRAJ","PATEL","PUNA",2,40000),(114,"SURAJ","KALE","THANE",4,37000);
 ALTER TABLE salesman ADD gender VARCHAR(6) AFTER Lname;
 UPDATE salesman SET city = 'SATARA' WHERE (`salesman_id` = '113');
+UPDATE salesman SET gender = 'male' WHERE salesman_id = 118;
+ALTER TABLE salesman ADD DOB DATE AFTER gender;
