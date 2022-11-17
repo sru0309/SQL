@@ -18,3 +18,4 @@ ALTER TABLE salesman ADD gender VARCHAR(6) AFTER Lname;
 UPDATE salesman SET city = 'SATARA' WHERE (`salesman_id` = '113');
 UPDATE salesman SET gender = 'male' WHERE salesman_id = 118;
 ALTER TABLE salesman ADD DOB DATE AFTER gender;
+ALTER TABLE salesman RENAME COLUMN DOB to dob ; 
