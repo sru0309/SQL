@@ -45,4 +45,3 @@ RIGHT JOIN fruit
 ON ord_imp.imp_id = fruit.fru_id;
 
 
-
