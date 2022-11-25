@@ -12,3 +12,4 @@ SELECT COUNT(order_id),product FROM orders GROUP BY product;
 SELECT COUNT(seller),product FROM orders GROUP BY product;
 SELECT COUNT(product),seller FROM orders GROUP BY seller;
 
+
