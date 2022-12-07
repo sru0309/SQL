@@ -1,0 +1,301 @@
+﻿Invoice_ID,STORE,Customer type,Gender,Product_line,Unit_price,Quantity,Tax _5,Total,Rating,P_date,EEID
+750-67-8428,B,Member,Female,Health and beauty,74.69,7,26.1415,548.9715,9.1,2019-07-11,101013
+226-31-3081,B,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,9.6,2019-02-13,101018
+631-41-3108,C,Normal,Male,Home and lifestyle,46.33,7,16.2155,340.5255,7.4,2019-06-04,101027
+123-19-1176,D,Member,Male,Health and beauty,58.22,8,23.288,489.048,8.4,2019-10-02,101032
+373-73-7910,B,Normal,Male,Sports and travel,86.31,7,30.2085,634.3785,5.3,2019-10-29,101015
+699-14-3026,D,Normal,Male,Electronic accessories,85.39,7,29.8865,627.6165,4.1,2019-11-17,101038
+355-53-5943,D,Member,Female,Electronic accessories,68.84,6,20.652,433.692,5.8,2019-08-08,101040
+315-22-5665,E,Normal,Female,Home and lifestyle,73.56,10,36.78,772.38,8,2019-08-17,101046
+665-32-9167,E,Member,Female,Health and beauty,36.26,2,3.626,76.146,7.2,2019-03-04,101042
+692-92-5582,E,Member,Female,Food and beverages,54.84,3,8.226,172.746,5.9,2019-11-21,101049
+351-62-0822,E,Member,Female,Fashion accessories,14.48,4,2.896,60.816,4.5,2019-02-23,101045
+529-56-3974,D,Member,Male,Electronic accessories,25.51,4,5.102,107.142,6.8,2019-05-26,101037
+365-64-0515,C,Normal,Female,Electronic accessories,46.95,5,11.7375,246.4875,7.1,2019-08-09,101025
+252-56-2699,B,Normal,Male,Food and beverages,43.19,10,21.595,453.495,8.2,2019-03-24,101016
+829-34-3910,C,Normal,Female,Health and beauty,71.38,10,35.69,749.49,5.7,2019-08-18,101022
+299-46-1805,B,Member,Female,Sports and travel,93.72,6,28.116,590.436,4.5,2019-12-28,101016
+656-95-9349,B,Member,Female,Health and beauty,68.93,7,24.1255,506.6355,4.6,2019-09-27,101018
+765-26-6951,E,Normal,Male,Sports and travel,72.61,6,21.783,457.443,6.9,2019-06-05,101049
+329-62-1586,B,Normal,Male,Food and beverages,54.67,3,8.2005,172.2105,8.6,2019-10-27,101013
+319-50-3348,E,Normal,Female,Home and lifestyle,40.3,2,4.03,84.63,4.4,2019-12-31,101045
+300-71-4605,D,Member,Male,Electronic accessories,86.04,5,21.51,451.71,4.8,2019-10-25,101040
+371-85-5789,D,Normal,Male,Health and beauty,87.98,3,13.197,277.137,5.1,2019-07-03,101036
+273-16-6619,D,Normal,Male,Home and lifestyle,33.2,2,3.32,69.72,4.4,2019-04-18,101032
+636-48-8204,A,Normal,Male,Electronic accessories,34.56,5,8.64,181.44,9.9,2019-01-03,101002
+549-59-1358,D,Member,Male,Sports and travel,88.63,3,13.2945,279.1845,6,2019-02-28,101037
+227-03-5010,C,Member,Female,Home and lifestyle,52.59,8,21.036,441.756,8.5,2019-09-07,101028
+649-29-6775,B,Normal,Male,Fashion accessories,33.52,1,1.676,35.196,6.7,2019-03-07,101020
+189-17-4241,C,Normal,Female,Fashion accessories,87.67,2,8.767,184.107,7.7,2019-07-15,101021
+145-94-9061,D,Normal,Female,Food and beverages,88.36,5,22.09,463.89,9.6,2019-06-23,101039
+848-62-7243,E,Normal,Male,Health and beauty,24.89,9,11.2005,235.2105,7.4,2019-10-23,101046
+871-79-8483,C,Normal,Male,Fashion accessories,94.13,5,23.5325,494.1825,4.8,2019-05-23,101030
+149-71-6266,A,Member,Male,Sports and travel,78.07,9,35.1315,737.7615,4.5,2019-12-05,101007
+640-49-2076,B,Normal,Male,Sports and travel,83.78,8,33.512,703.752,5.1,2019-01-21,101012
+595-11-5460,D,Normal,Male,Health and beauty,96.58,2,9.658,202.818,5.1,2019-11-14,101033
+183-56-6882,E,Member,Female,Food and beverages,99.42,4,19.884,417.564,7.5,2019-04-20,101041
+232-16-2483,A,Member,Female,Sports and travel,68.12,1,3.406,71.526,6.8,2019-08-11,101009
+129-29-8530,B,Member,Male,Sports and travel,62.62,5,15.655,328.755,7,2019-07-29,101016
+272-65-1806,A,Normal,Female,Electronic accessories,60.88,9,27.396,575.316,4.7,2019-12-06,101005
+333-73-7901,B,Normal,Female,Health and beauty,54.92,8,21.968,461.328,7.6,2019-10-25,101017
+777-82-7220,D,Member,Male,Home and lifestyle,30.12,8,12.048,253.008,7.7,2019-12-02,101039
+280-35-5823,C,Member,Female,Home and lifestyle,86.72,1,4.336,91.056,7.9,2019-05-06,101027
+554-53-8700,D,Member,Male,Home and lifestyle,56.11,2,5.611,117.831,6.3,2019-12-19,101035
+354-25-5821,E,Member,Female,Sports and travel,69.12,6,20.736,435.456,5.6,2019-11-17,101043
+228-96-1411,D,Member,Female,Food and beverages,98.7,8,39.48,829.08,7.6,2019-09-23,101038
+617-15-4209,C,Member,Male,Health and beauty,15.37,2,1.537,32.277,7.2,2019-11-04,101028
+132-32-9879,D,Member,Female,Electronic accessories,93.96,4,18.792,394.632,9.5,2019-09-16,101039
+370-41-7321,A,Member,Male,Health and beauty,56.69,9,25.5105,535.7205,8.4,2019-07-22,101003
+727-46-3608,E,Member,Female,Food and beverages,20.01,9,9.0045,189.0945,4.1,2019-10-03,101048
+669-54-1719,B,Member,Male,Electronic accessories,18.93,6,5.679,119.259,8.1,2019-08-11,101011
+574-22-5561,A,Member,Female,Fashion accessories,82.63,10,41.315,867.615,7.9,2019-07-12,101006
+326-78-5178,D,Member,Male,Food and beverages,91.4,7,31.99,671.79,9.5,2019-09-24,101035
+162-48-8011,B,Member,Female,Food and beverages,44.59,5,11.1475,234.0975,8.5,2019-04-25,101017
+616-24-2851,D,Member,Female,Fashion accessories,17.87,4,3.574,75.054,6.5,2019-04-17,101039
+778-71-5554,C,Member,Male,Fashion accessories,15.43,1,0.7715,16.2015,6.1,2019-09-10,101028
+242-55-6721,B,Normal,Male,Home and lifestyle,16.16,2,1.616,33.936,6.5,2019-09-24,101020
+399-46-5918,A,Normal,Female,Electronic accessories,85.98,8,34.392,722.232,8.2,2019-01-15,101009
+106-35-6779,C,Member,Male,Home and lifestyle,44.34,2,4.434,93.114,5.8,2019-01-07,101026
+635-40-6220,B,Normal,Male,Health and beauty,89.6,8,35.84,752.64,6.6,2019-11-30,101017
+817-48-8732,B,Member,Female,Home and lifestyle,72.35,10,36.175,759.675,5.4,2019-11-01,101015
+120-06-4233,A,Normal,Male,Electronic accessories,30.61,6,9.183,192.843,9.3,2019-02-08,101008
+285-68-5083,E,Member,Female,Sports and travel,24.74,3,3.711,77.931,10,2019-03-09,101049
+803-83-5989,E+B63,Normal,Male,Home and lifestyle,55.73,6,16.719,351.099,7,2019-10-11,#N/A
+347-34-2234,A,Member,Female,Sports and travel,55.07,9,24.7815,520.4115,10,2019-12-17,101003
+199-75-8169,E,Member,Male,Sports and travel,15.81,10,7.905,166.005,8.6,2019-03-18,101048
+853-23-2453,D,Member,Male,Health and beauty,75.74,4,15.148,318.108,7.6,2019-09-11,101036
+877-22-3308,B,Member,Male,Health and beauty,15.87,10,7.935,166.635,5.8,2019-05-08,101018
+838-78-4295,E,Normal,Female,Health and beauty,33.47,2,3.347,70.287,6.7,2019-01-24,101049
+109-28-2512,A,Member,Female,Fashion accessories,97.61,6,29.283,614.943,9.9,2019-04-09,101004
+232-11-3025,B,Normal,Male,Sports and travel,78.77,10,39.385,827.085,6.4,2019-02-10,101020
+382-03-4532,E,Member,Female,Health and beauty,18.33,1,0.9165,19.2465,4.3,2019-03-28,101049
+393-65-2792,C,Normal,Male,Food and beverages,89.48,10,44.74,939.54,9.6,2019-05-06,101027
+796-12-2025,E,Normal,Male,Fashion accessories,62.12,10,31.06,652.26,5.9,2019-08-31,101048
+510-95-6347,A,Member,Female,Food and beverages,48.52,3,7.278,152.838,4,2019-01-13,101008
+841-35-6630,B,Normal,Female,Electronic accessories,75.91,6,22.773,478.233,8.7,2019-10-21,101013
+287-21-9091,C,Normal,Male,Home and lifestyle,74.67,9,33.6015,705.6315,9.4,2019-04-16,101023
+732-94-0499,A,Normal,Female,Electronic accessories,41.65,10,20.825,437.325,5.4,2019-05-19,101010
+263-10-3913,C,Member,Male,Fashion accessories,49.04,9,22.068,463.428,8.6,2019-04-10,101022
+381-20-0914,D,Member,Female,Fashion accessories,20.01,9,9.0045,189.0945,5.7,2019-06-14,101039
+829-49-1914,E,Member,Female,Food and beverages,78.31,10,39.155,822.255,6.6,2019-06-30,101045
+756-01-7507,A,Normal,Female,Health and beauty,20.38,5,5.095,106.995,6,2019-12-15,101002
+870-72-4431,B,Normal,Female,Health and beauty,99.19,6,29.757,624.897,5.5,2019-09-29,101011
+847-38-7188,A,Normal,Female,Food and beverages,96.68,3,14.502,304.542,6.4,2019-02-11,101005
+480-63-2856,D,Normal,Male,Food and beverages,19.25,8,7.7,161.7,6.6,2019-08-14,101040
+787-56-0757,D,Member,Female,Food and beverages,80.36,4,16.072,337.512,8.3,2019-01-20,101034
+360-39-5055,A,Member,Male,Sports and travel,48.91,5,12.2275,256.7775,6.6,2019-03-15,101005
+730-50-9884,B,Normal,Female,Sports and travel,83.06,7,29.071,610.491,4,2019-02-08,101016
+362-58-8315,C,Normal,Male,Fashion accessories,76.52,5,19.13,401.73,9.9,2019-12-30,101026
+633-44-8566,D,Member,Male,Food and beverages,49.38,7,17.283,362.943,7.3,2019-07-13,101031
+504-35-8843,E,Normal,Male,Sports and travel,42.47,1,2.1235,44.5935,5.7,2019-06-11,101049
+318-68-5053,D,Normal,Female,Health and beauty,76.99,6,23.097,485.037,6.1,2019-06-18,101035
+565-80-5980,E,Member,Female,Home and lifestyle,47.38,4,9.476,198.996,7.1,2019-03-12,101047
+225-32-0908,A,Normal,Female,Sports and travel,44.86,10,22.43,471.03,8.2,2019-06-10,101002
+873-51-0671,E,Member,Female,Sports and travel,21.98,7,7.693,161.553,5.1,2019-11-11,101046
+152-08-9985,E,Member,Male,Health and beauty,64.36,9,28.962,608.202,8.6,2019-04-26,101043
+512-91-0811,D,Normal,Male,Health and beauty,89.75,1,4.4875,94.2375,6.6,2019-09-10,101032
+594-34-4444,B,Normal,Male,Electronic accessories,97.16,1,4.858,102.018,7.2,2019-09-02,101011
+766-85-7061,E,Normal,Male,Health and beauty,87.87,10,43.935,922.635,5.1,2019-03-10,101049
+871-39-9221,A,Normal,Female,Electronic accessories,12.45,6,3.735,78.435,4.1,2019-06-08,101008
+865-92-6136,A,Normal,Male,Food and beverages,52.75,3,7.9125,166.1625,9.3,2019-10-18,101006
+733-01-9107,E,Normal,Male,Home and lifestyle,82.7,6,24.81,521.01,7.4,2019-07-19,101042
+163-56-7055,E,Member,Male,Fashion accessories,48.71,1,2.4355,51.1455,4.1,2019-12-01,101048
+189-98-2939,B,Normal,Male,Fashion accessories,78.55,9,35.3475,742.2975,7.2,2019-10-09,101020
+551-21-3069,D,Normal,Female,Electronic accessories,23.07,9,10.3815,218.0115,4.9,2019-08-21,101033
+212-62-1842,A,Normal,Male,Food and beverages,58.26,6,17.478,367.038,9.9,2019-11-02,101003
+716-39-1409,B,Normal,Male,Health and beauty,30.35,7,10.6225,223.0725,8,2019-11-12,101013
+704-48-3927,A,Member,Male,Electronic accessories,88.67,10,44.335,931.035,7.3,2019-02-11,101001
+628-34-3388,B,Normal,Male,Fashion accessories,27.38,6,8.214,172.494,7.9,2019-12-24,101016
+630-74-5166,E,Normal,Male,Sports and travel,62.13,6,18.639,391.419,7.4,2019-11-11,101045
+588-01-7461,E,Normal,Female,Food and beverages,33.98,9,15.291,321.111,4.2,2019-01-20,101050
+861-77-0145,D,Member,Male,Electronic accessories,81.97,10,40.985,860.685,9.2,2019-04-30,101032
+479-26-8945,E,Member,Female,Sports and travel,16.49,2,1.649,34.629,4.6,2019-05-26,101046
+210-67-5886,B,Member,Female,Health and beauty,98.21,3,14.7315,309.3615,7.8,2019-04-04,101018
+227-78-1148,E,Normal,Female,Fashion accessories,72.84,7,25.494,535.374,8.4,2019-03-27,101042
+645-44-1170,D,Member,Male,Home and lifestyle,58.07,9,26.1315,548.7615,4.3,2019-03-01,101037
+237-01-6122,C,Member,Female,Home and lifestyle,80.79,9,36.3555,763.4655,9.5,2019-09-07,101026
+225-98-1496,A,Normal,Female,Fashion accessories,27.02,3,4.053,85.113,7.1,2019-04-20,101002
+291-32-1427,C,Member,Male,Fashion accessories,21.94,5,5.485,115.185,5.3,2019-07-28,101030
+659-65-8956,E,Member,Male,Fashion accessories,51.36,1,2.568,53.928,5.2,2019-03-10,101050
+642-32-2990,A,Normal,Female,Food and beverages,10.96,10,5.48,115.08,6,2019-11-07,101002
+378-24-2715,C,Normal,Male,Home and lifestyle,53.44,2,5.344,112.224,4.1,2019-11-10,101022
+638-60-7125,E,Normal,Female,Electronic accessories,99.56,8,39.824,836.304,5.2,2019-06-13,101042
+659-36-1684,E,Member,Male,Sports and travel,57.12,7,19.992,419.832,6.5,2019-04-01,101041
+219-22-9386,E,Member,Male,Sports and travel,99.96,9,44.982,944.622,4.2,2019-12-18,101046
+336-78-2147,B,Member,Male,Home and lifestyle,63.91,8,25.564,536.844,4.6,2019-04-22,101015
+268-27-6179,E,Member,Female,Fashion accessories,56.47,8,22.588,474.348,7.3,2019-03-27,101045
+668-90-8900,C,Normal,Female,Home and lifestyle,93.69,7,32.7915,688.6215,4.5,2019-04-15,101027
+870-54-3162,A,Normal,Female,Sports and travel,32.25,5,8.0625,169.3125,9,2019-06-02,101008
+189-08-9157,A,Normal,Female,Fashion accessories,31.73,9,14.2785,299.8485,5.9,2019-05-19,101009
+663-86-9076,E,Member,Female,Food and beverages,68.54,8,27.416,575.736,8.5,2019-08-01,101043
+549-84-7482,E,Normal,Female,Sports and travel,90.28,9,40.626,853.146,7.2,2019-01-18,101046
+191-10-6171,A,Normal,Female,Fashion accessories,39.62,7,13.867,291.207,7.5,2019-02-21,101004
+802-70-5316,C,Member,Female,Sports and travel,92.13,6,27.639,580.419,8.3,2019-04-04,101027
+695-51-0018,C,Normal,Female,Sports and travel,34.84,4,6.968,146.328,7.4,2019-08-03,101027
+590-83-4591,E,Member,Male,Electronic accessories,87.45,6,26.235,550.935,8.8,2019-12-28,101046
+483-71-1164,B,Normal,Female,Health and beauty,81.3,6,24.39,512.19,5.3,2019-01-12,101011
+597-78-7908,C,Normal,Male,Fashion accessories,90.22,3,13.533,284.193,6.2,2019-01-14,101028
+700-81-1757,C,Normal,Female,Electronic accessories,26.31,5,6.5775,138.1275,8.8,2019-09-02,101026
+354-39-5160,C,Member,Female,Home and lifestyle,34.42,6,10.326,216.846,9.8,2019-10-05,101022
+241-72-9525,E,Normal,Male,Sports and travel,51.91,10,25.955,545.055,8.2,2019-02-09,101049
+575-30-8091,E,Normal,Male,Sports and travel,72.5,8,29,609,9.2,2019-07-01,101047
+731-81-9469,D,Member,Female,Sports and travel,89.8,10,44.9,942.9,5.4,2019-11-21,101037
+280-17-4359,D,Member,Male,Health and beauty,90.5,10,45.25,950.25,8.1,2019-10-09,101035
+338-65-2210,A,Member,Female,Health and beauty,68.6,10,34.3,720.3,9.1,2019-12-28,101005
+488-25-4221,E,Member,Female,Food and beverages,30.41,1,1.5205,31.9305,8.4,2019-03-09,101043
+239-10-7476,E,Normal,Female,Home and lifestyle,77.95,6,23.385,491.085,8,2019-06-01,101044
+458-41-1477,C,Normal,Female,Health and beauty,46.26,6,13.878,291.438,9.5,2019-03-31,101022
+685-64-1609,C,Member,Female,Fashion accessories,30.14,10,15.07,316.47,9.2,2019-08-02,101027
+568-90-5112,D,Normal,Male,Health and beauty,66.14,4,13.228,277.788,5.6,2019-07-08,101035
+262-47-2794,C,Member,Male,Home and lifestyle,71.86,8,28.744,603.624,6.2,2019-05-29,101021
+238-49-0436,E,Normal,Male,Health and beauty,32.46,8,12.984,272.664,4.9,2019-07-27,101042
+608-96-3517,B,Member,Female,Fashion accessories,91.54,4,18.308,384.468,4.8,2019-06-28,101017
+584-86-7256,B,Member,Male,Sports and travel,34.56,7,12.096,254.016,7.3,2019-10-02,101016
+746-94-0204,B,Normal,Male,Fashion accessories,83.24,9,37.458,786.618,7.4,2019-05-19,101018
+214-17-6927,D,Normal,Female,Food and beverages,16.48,6,4.944,103.824,9.9,2019-07-30,101035
+400-89-4171,E,Normal,Female,Sports and travel,80.97,8,32.388,680.148,9.3,2019-08-16,101046
+782-95-9291,B,Member,Male,Food and beverages,92.29,5,23.0725,484.5225,9,2019-03-28,101013
+279-74-2924,A,Member,Male,Electronic accessories,72.17,1,3.6085,75.7785,6.1,2019-07-07,101001
+307-85-2293,A,Normal,Male,Home and lifestyle,50.28,5,12.57,263.97,9.7,2019-02-15,101009
+743-04-1105,C,Member,Male,Health and beauty,97.22,9,43.749,918.729,6,2019-07-13,101026
+423-57-2993,B,Normal,Male,Sports and travel,93.39,6,28.017,588.357,10,2019-02-04,101014
+894-41-5205,B,Normal,Female,Food and beverages,43.18,8,17.272,362.712,8.3,2019-08-17,101012
+275-28-0149,B,Normal,Male,Sports and travel,63.69,1,3.1845,66.8745,6,2019-10-05,101020
+101-17-6199,B,Normal,Male,Food and beverages,45.79,7,16.0265,336.5565,7,2019-01-30,101015
+423-80-0988,E,Normal,Male,Sports and travel,76.4,2,7.64,160.44,6.5,2019-01-19,101041
+548-46-9322,D,Normal,Male,Food and beverages,39.9,10,19.95,418.95,5.9,2019-08-13,101040
+505-02-0892,D,Member,Male,Health and beauty,42.57,8,17.028,357.588,5.6,2019-06-14,101036
+234-65-2137,D,Normal,Male,Home and lifestyle,95.58,10,47.79,1003.59,4.8,2019-09-09,101038
+687-47-8271,A,Normal,Male,Fashion accessories,98.98,10,49.49,1039.29,8.7,2019-09-03,101002
+796-32-9050,C,Normal,Male,Food and beverages,51.28,6,15.384,323.064,6.5,2019-10-13,101029
+105-31-1824,D,Member,Male,Sports and travel,69.52,7,24.332,510.972,8.5,2019-02-25,101040
+249-42-3782,D,Normal,Male,Health and beauty,70.01,5,17.5025,367.5525,5.5,2019-07-15,101032
+316-55-4634,A,Member,Male,Food and beverages,80.05,5,20.0125,420.2625,9.4,2019-01-08,101007
+733-33-4967,E,Normal,Male,Electronic accessories,20.85,8,8.34,175.14,6.3,2019-03-10,101047
+608-27-6295,E,Member,Male,Electronic accessories,52.89,6,15.867,333.207,9.8,2019-10-25,101042
+414-12-7047,E,Normal,Male,Food and beverages,19.79,8,7.916,166.236,8.7,2019-12-08,101050
+827-26-2100,A,Member,Male,Home and lifestyle,33.84,9,15.228,319.788,8.8,2019-11-09,101006
+175-54-2529,C,Member,Male,Food and beverages,22.17,8,8.868,186.228,9.6,2019-10-03,101022
+139-52-2867,C,Normal,Female,Fashion accessories,22.51,7,7.8785,165.4485,4.8,2019-03-22,101021
+407-63-8975,B,Normal,Male,Food and beverages,73.88,6,22.164,465.444,4.4,2019-11-06,101017
+342-65-4817,C,Member,Male,Health and beauty,86.8,3,13.02,273.42,9.9,2019-01-24,101021
+130-98-8941,A,Normal,Male,Fashion accessories,64.26,7,22.491,472.311,5.7,2019-07-19,101003
+434-83-9547,B,Member,Male,Food and beverages,38.47,8,15.388,323.148,7.7,2019-09-28,101013
+851-28-6367,D,Member,Male,Sports and travel,15.5,10,7.75,162.75,8,2019-06-19,101035
+824-88-3614,A,Normal,Male,Health and beauty,34.31,8,13.724,288.204,5.7,2019-08-16,101009
+586-25-0848,C,Normal,Female,Sports and travel,12.34,7,4.319,90.699,6.7,2019-06-11,101030
+895-66-0685,B,Member,Male,Food and beverages,18.08,3,2.712,56.952,8,2019-07-11,101015
+305-14-0245,A,Member,Female,Home and lifestyle,94.49,8,37.796,793.716,7.5,2019-05-22,101003
+732-04-5373,E,Member,Male,Home and lifestyle,46.47,4,9.294,195.174,7,2019-05-19,101042
+400-60-7251,B,Normal,Male,Home and lifestyle,74.07,1,3.7035,77.7735,9.9,2019-11-10,101014
+593-65-1552,E,Normal,Female,Home and lifestyle,69.81,4,13.962,293.202,5.9,2019-03-14,101049
+284-34-9626,D,Normal,Female,Home and lifestyle,77.04,3,11.556,242.676,7.2,2019-10-11,101031
+437-58-8131,C,Normal,Female,Fashion accessories,73.52,2,7.352,154.392,4.6,2019-05-10,101028
+286-43-6208,C,Normal,Female,Food and beverages,87.8,9,39.51,829.71,9.2,2019-11-06,101021
+641-43-2399,A,Normal,Male,Home and lifestyle,25.55,4,5.11,107.31,5.7,2019-02-02,101004
+831-07-6050,D,Normal,Male,Electronic accessories,32.71,5,8.1775,171.7275,9.9,2019-10-27,101034
+556-86-3144,D,Member,Female,Fashion accessories,74.29,1,3.7145,78.0045,5,2019-04-28,101035
+848-24-9445,C,Member,Male,Health and beauty,43.7,2,4.37,91.77,4.9,2019-08-31,101022
+856-22-8149,E,Normal,Female,Home and lifestyle,25.29,1,1.2645,26.5545,6.1,2019-07-15,101049
+699-01-4164,C,Normal,Male,Health and beauty,41.5,4,8.3,174.3,8.2,2019-02-06,101022
+420-11-4919,E,Member,Female,Food and beverages,71.39,5,17.8475,374.7975,5.5,2019-03-09,101048
+606-80-4905,E,Member,Female,Sports and travel,19.15,6,5.745,120.645,6.8,2019-10-11,101044
+542-41-0513,D,Member,Female,Electronic accessories,57.49,4,11.498,241.458,6.6,2019-11-22,101031
+426-39-2418,B,Normal,Male,Electronic accessories,61.41,7,21.4935,451.3635,9.8,2019-01-01,101012
+875-46-5808,C,Member,Male,Health and beauty,25.9,10,12.95,271.95,8.7,2019-06-24,101027
+394-43-4238,A,Member,Male,Home and lifestyle,17.77,5,4.4425,93.2925,5.4,2019-10-31,101003
+749-24-1565,C,Normal,Female,Health and beauty,23.03,9,10.3635,217.6335,7.9,2019-05-16,101024
+672-51-8681,E,Member,Female,Electronic accessories,66.65,9,29.9925,629.8425,9.7,2019-01-04,101045
+263-87-5680,B,Member,Female,Home and lifestyle,28.53,10,14.265,299.565,7.8,2019-11-08,101014
+573-58-9734,A,Normal,Female,Fashion accessories,30.37,3,4.5555,95.6655,5.1,2019-05-29,101007
+817-69-8206,E,Normal,Female,Electronic accessories,99.73,9,44.8785,942.4485,6.5,2019-07-13,101044
+888-02-0338,C,Normal,Male,Electronic accessories,26.23,9,11.8035,247.8735,5.9,2019-03-27,101022
+677-11-0152,C,Normal,Female,Food and beverages,93.26,9,41.967,881.307,8.8,2019-08-14,101021
+142-63-6033,C,Normal,Male,Home and lifestyle,92.36,5,23.09,484.89,4.9,2019-07-31,101023
+656-16-1063,B,Normal,Male,Sports and travel,46.42,3,6.963,146.223,4.4,2019-01-22,101014
+891-58-8335,C,Member,Female,Sports and travel,29.61,7,10.3635,217.6335,6.5,2019-06-20,101024
+802-43-8934,B,Normal,Male,Home and lifestyle,18.28,1,0.914,19.194,8.3,2019-01-26,101011
+560-30-5617,C,Normal,Female,Sports and travel,24.77,5,6.1925,130.0425,8.5,2019-03-05,101024
+319-74-2561,A,Member,Female,Electronic accessories,94.64,3,14.196,298.116,5.5,2019-11-26,101007
+549-03-9315,D,Normal,Male,Fashion accessories,94.87,8,37.948,796.908,8.7,2019-12-26,101039
+790-29-1172,D,Normal,Female,Food and beverages,57.34,3,8.601,180.621,7.9,2019-09-12,101031
+239-36-3640,B,Normal,Male,Electronic accessories,45.35,6,13.605,285.705,6.1,2019-10-07,101018
+468-01-2051,A,Normal,Male,Food and beverages,62.08,7,21.728,456.288,5.4,2019-09-07,101005
+389-25-3394,D,Normal,Male,Electronic accessories,11.81,5,2.9525,62.0025,9.4,2019-05-28,101033
+279-62-1445,B,Member,Female,Fashion accessories,12.54,1,0.627,13.167,8.2,2019-12-26,101011
+213-72-6612,B,Normal,Male,Food and beverages,43.25,2,4.325,90.825,6.2,2019-10-26,101015
+746-68-6593,D,Member,Female,Sports and travel,87.16,2,8.716,183.036,9.7,2019-12-11,101034
+836-82-5858,B,Member,Male,Health and beauty,69.37,9,31.2165,655.5465,4,2019-10-21,101014
+583-72-1480,A,Member,Male,Electronic accessories,37.06,4,7.412,155.652,9.7,2019-04-19,101003
+466-61-5506,B,Member,Female,Electronic accessories,90.7,6,27.21,571.41,5.3,2019-08-09,101016
+721-86-6247,C,Normal,Female,Home and lifestyle,63.42,8,25.368,532.728,7.4,2019-12-27,101030
+289-65-5721,A,Normal,Female,Fashion accessories,81.37,2,8.137,170.877,6.5,2019-05-10,101010
+545-46-3100,B,Member,Female,Electronic accessories,10.59,3,1.5885,33.3585,8.7,2019-03-31,101020
+418-02-5978,D,Normal,Female,Health and beauty,84.09,9,37.8405,794.6505,8,2019-11-28,101038
+269-04-5750,A,Member,Male,Fashion accessories,73.82,4,14.764,310.044,6.7,2019-03-02,101005
+157-13-5295,B,Member,Male,Health and beauty,51.94,10,25.97,545.37,6.5,2019-06-28,101017
+645-78-8093,C,Normal,Female,Sports and travel,93.14,2,9.314,195.594,4.1,2019-05-17,101030
+211-30-9270,A,Normal,Male,Health and beauty,17.41,5,4.3525,91.4025,4.9,2019-08-28,101003
+755-12-3214,D,Member,Female,Fashion accessories,44.22,5,11.055,232.155,8.6,2019-05-22,101034
+346-84-3103,E,Member,Female,Electronic accessories,13.22,5,3.305,69.405,4.3,2019-07-17,101042
+478-06-7835,A,Normal,Male,Fashion accessories,89.69,1,4.4845,94.1745,4.9,2019-05-28,101002
+540-11-4336,E,Normal,Male,Food and beverages,24.94,9,11.223,235.683,5.6,2019-09-17,101041
+448-81-5016,A,Normal,Male,Health and beauty,59.77,2,5.977,125.517,5.8,2019-07-21,101003
+142-72-4741,E,Member,Male,Fashion accessories,93.2,2,9.32,195.72,6,2019-08-08,101049
+217-58-1179,C,Member,Male,Home and lifestyle,62.65,4,12.53,263.13,4.2,2019-09-06,101021
+376-02-8238,C,Normal,Male,Home and lifestyle,93.87,8,37.548,788.508,8.3,2019-08-14,101024
+530-90-9855,A,Member,Male,Home and lifestyle,47.59,8,19.036,399.756,5.7,2019-11-16,101005
+866-05-7563,C,Member,Female,Electronic accessories,81.4,3,12.21,256.41,4.8,2019-08-06,101022
+604-70-6476,C,Member,Male,Fashion accessories,17.94,5,4.485,94.185,6.8,2019-01-05,101030
+799-71-1548,D,Member,Male,Electronic accessories,77.72,4,15.544,326.424,8.8,2019-11-24,101034
+785-13-7708,E,Normal,Male,Food and beverages,73.06,7,25.571,536.991,4.2,2019-04-02,101044
+845-51-0542,B,Member,Male,Food and beverages,46.55,9,20.9475,439.8975,6.4,2019-06-06,101015
+662-47-5456,C,Member,Male,Fashion accessories,35.19,10,17.595,369.495,8.4,2019-08-12,101024
+883-17-4236,C,Normal,Female,Sports and travel,14.39,2,1.439,30.219,7.2,2019-08-30,101026
+290-68-2984,E,Normal,Male,Home and lifestyle,23.75,4,4.75,99.75,5.2,2019-06-24,101041
+704-11-6354,E,Member,Male,Home and lifestyle,58.9,8,23.56,494.76,8.9,2019-01-26,101049
+110-48-7033,C,Member,Male,Fashion accessories,32.62,4,6.524,137.004,9,2019-04-02,101024
+366-93-0948,B,Member,Male,Electronic accessories,66.35,1,3.3175,69.6675,9.7,2019-11-15,101014
+729-09-9681,D,Member,Male,Home and lifestyle,25.91,6,7.773,163.233,8.7,2019-06-22,101039
+151-16-1484,D,Member,Male,Electronic accessories,32.25,4,6.45,135.45,6.5,2019-06-29,101033
+380-94-4661,A,Member,Male,Electronic accessories,65.94,4,13.188,276.948,6.9,2019-07-26,101005
+850-41-9669,A,Normal,Female,Electronic accessories,75.06,9,33.777,709.317,6.2,2019-01-31,101002
+821-07-3596,B,Normal,Female,Fashion accessories,16.45,4,3.29,69.09,5.6,2019-07-28,101012
+655-85-5130,E,Member,Female,Fashion accessories,38.3,4,7.66,160.86,5.7,2019-08-23,101047
+447-15-7839,E,Member,Female,Sports and travel,22.24,10,11.12,233.52,4.2,2019-05-18,101041
+154-74-7179,D,Normal,Male,Sports and travel,54.45,1,2.7225,57.1725,7.9,2019-05-23,101035
+253-12-6086,C,Member,Female,Sports and travel,98.4,7,34.44,723.24,8.7,2019-02-01,101029
+808-65-0703,C,Normal,Male,Home and lifestyle,35.47,4,7.094,148.974,6.9,2019-09-26,101028
+571-94-0759,C,Member,Female,Food and beverages,74.6,10,37.3,783.3,9.5,2019-10-21,101026
+144-51-6085,D,Member,Male,Home and lifestyle,70.74,4,14.148,297.108,4.4,2019-07-29,101032
+731-14-2199,A,Member,Female,Home and lifestyle,35.54,10,17.77,373.17,7,2019-03-10,101006
+783-09-1637,B,Normal,Female,Sports and travel,67.43,5,16.8575,354.0075,6.3,2019-09-18,101012
+687-15-1097,B,Member,Female,Health and beauty,21.12,2,2.112,44.352,9.7,2019-07-20,101011
+126-54-1082,A,Member,Female,Home and lifestyle,21.54,9,9.693,203.553,8.8,2019-04-29,101008
+633-91-1052,B,Normal,Female,Home and lifestyle,12.03,2,1.203,25.263,5.1,2019-08-21,101014
+477-24-6490,C,Normal,Female,Health and beauty,99.71,6,29.913,628.173,7.9,2019-08-23,101022
+566-19-5475,E,Normal,Male,Fashion accessories,47.97,7,16.7895,352.5795,6.2,2019-06-01,101045
+526-86-8552,B,Member,Female,Home and lifestyle,21.82,10,10.91,229.11,7.1,2019-05-30,101017
+376-56-3573,C,Normal,Female,Fashion accessories,95.42,4,19.084,400.764,6.4,2019-01-14,101021
+537-72-0426,B,Member,Male,Fashion accessories,70.99,10,35.495,745.395,5.7,2019-01-18,101011
+828-61-5674,B,Member,Male,Sports and travel,44.02,10,22.01,462.21,9.6,2019-02-02,101014
+136-08-6195,A,Normal,Female,Home and lifestyle,69.96,8,27.984,587.664,6.4,2019-02-26,101001
+523-38-0215,D,Normal,Male,Home and lifestyle,37,1,1.85,38.85,7.9,2019-02-05,101035
+490-29-1201,C,Normal,Female,Sports and travel,15.34,1,0.767,16.107,6.5,2019-08-27,101021
+667-92-0055,E,Member,Male,Health and beauty,99.83,6,29.949,628.929,8.5,2019-04-13,101044
+565-17-3836,E,Member,Female,Health and beauty,47.67,4,9.534,200.214,9.1,2019-06-25,101049
+498-41-1961,B,Normal,Male,Health and beauty,66.68,5,16.67,350.07,7.6,2019-07-10,101014
+593-95-4461,A,Member,Male,Home and lifestyle,74.86,1,3.743,78.603,6.9,2019-11-13,101002
+226-71-3580,C,Normal,Female,Sports and travel,23.75,9,10.6875,224.4375,9.5,2019-08-04,101024
+283-79-9594,D,Normal,Female,Food and beverages,48.51,7,16.9785,356.5485,5.2,2019-04-30,101038
+430-60-3493,B,Member,Female,Home and lifestyle,94.88,7,33.208,697.368,4.2,2019-08-31,101014
+139-20-0155,E,Member,Male,Electronic accessories,40.3,10,20.15,423.15,7,2019-06-10,101045
+558-80-4082,E,Normal,Male,Electronic accessories,27.85,7,9.7475,204.6975,6,2019-12-18,101047
+278-97-7759,A,Member,Female,Electronic accessories,62.48,1,3.124,65.604,4.7,2019-11-05,101002
+316-68-6352,C,Member,Female,Food and beverages,36.36,2,3.636,76.356,7.1,2019-12-23,101026
+585-03-5943,D,Normal,Male,Health and beauty,18.11,10,9.055,190.155,5.9,2019-06-05,101039
+211-05-0490,E,Member,Female,Electronic accessories,51.92,5,12.98,272.58,7.5,2019-08-27,101048
+727-75-6477,D,Normal,Male,Electronic accessories,28.84,4,5.768,121.128,6.4,2019-11-21,101031
+744-02-5987,C,Member,Male,Home and lifestyle,78.38,6,23.514,493.794,5.8,2019-01-14,101024
+307-83-9164,A,Member,Male,Home and lifestyle,60.01,4,12.002,252.042,4.5,2019-12-15,101007
+779-06-0012,D,Member,Female,Home and lifestyle,88.61,1,4.4305,93.0405,7.7,2019-06-30,101037
